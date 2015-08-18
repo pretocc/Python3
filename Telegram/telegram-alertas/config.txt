@@ -1,0 +1,5 @@
+﻿En este fichero se configurarán los datos del mensaje a enviar.
+Los datos del asunto deben de estar en la cuarta línea y los del mensaje en la quinta línea.
+
+Asunto
+Aviso de Prueba
